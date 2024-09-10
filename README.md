@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @makinenr
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning OpenLayers integration on React
+- 🌱 I’m currently learning Vue3
 - 📫 How to reach me: tietäjät tietää
 
 <!---
